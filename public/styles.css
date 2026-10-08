@@ -105,6 +105,10 @@ ol, ul { list-style: none; }
   padding-inline: var(--gutter);
 }
 
+section[id] {
+  scroll-margin-top: 72px;
+}
+
 .section-title {
   font-family: var(--font-heading);
   font-weight: 700;
