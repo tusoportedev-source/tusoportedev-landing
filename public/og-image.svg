@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Fondo crema -->
+  <rect width="1200" height="630" fill="#F4F0E6"/>
+
+  <!-- Forma verde decorativa fondo -->
+  <ellipse cx="980" cy="315" rx="320" ry="260" fill="#DCE8E0" opacity="0.6"/>
+  <ellipse cx="1060" cy="480" rx="180" ry="140" fill="#1F5F4A" opacity="0.08"/>
+
+  <!-- Símbolo {<3} grande a la derecha -->
+  <g transform="translate(820, 155) scale(2.666)">
+    <rect width="120" height="120" rx="28" fill="#1F5F4A"/>
+    <path d="M30 32 C20 32 24 50 16 60 C24 70 20 88 30 88" fill="none" stroke="#E3A13B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M90 32 C100 32 96 50 104 60 C96 70 100 88 90 88" fill="none" stroke="#E3A13B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54 44 L38 60 L54 76" fill="none" stroke="#F4F0E6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 46 C76 41 87 49 78 58 C87 65 78 79 64 74" fill="none" stroke="#F4F0E6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Nombre de la marca -->
+  <text x="80" y="200" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="36" font-weight="700" fill="#5C625C" letter-spacing="-0.5">Tu Soporte Dev</text>
+
+  <!-- Eslogan principal -->
+  <text x="80" y="320" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" fill="#1F5F4A" letter-spacing="-2">Tú creas,</text>
+  <text x="80" y="410" font-family="'Space Grotesk', 'Segoe UI', system-ui, sans-serif" font-size="76" font-weight="700" fill="#1F5F4A" letter-spacing="-2">yo te guío.</text>
+
+  <!-- Subtítulo -->
+  <text x="80" y="490" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="400" fill="#5C625C">VPS · Dominio · Seguridad · Cloud</text>
+
+  <!-- URL -->
+  <text x="80" y="570" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="20" font-weight="600" fill="#1F5F4A">tusoportedev.dev</text>
+</svg>
